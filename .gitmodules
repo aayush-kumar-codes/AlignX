@@ -1,0 +1,3 @@
+[submodule "AlignX-Frontend"]
+	path = AlignX-Frontend
+	url = https://github.com/pythexcel/AlignX-Frontend.git
